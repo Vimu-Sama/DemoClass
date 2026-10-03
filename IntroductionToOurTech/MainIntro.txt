@@ -1,0 +1,2 @@
+Hello Guys! This is our intermediate GitHub session.
+We are studying pull requests, merges and rebases.
